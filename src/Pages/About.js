@@ -48,15 +48,6 @@ function About() {
                 <p class="text-base font-normal text-gray-500">Fullerton, CA</p>
             </div>
 
-            
-            <div class="mb-8 ml-4">
-                <div class="absolute w-3 h-3 bg-blue-500 rounded-full mt-1.5 -left-1.5 border border-white"></div>
-                <time class="text-sm font-semibold leading-none text-gray-400">August 2015 - June 2019</time>
-                <h3 class="text-lg font-semibold text-gray-400">Student</h3>
-                <p class="text-base font-normal text-gray-500">Anderson Clark Magnet High School</p>
-                <p class="text-base font-normal text-gray-500">La Crescenta, CA</p>
-            </div>
-
             </div>
       </section>
     </main>
