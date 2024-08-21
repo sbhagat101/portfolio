@@ -31,6 +31,7 @@ function Home() {
         <div className="mt-8 md:mt-0 md:w-1/2 flex justify-center md:justify-end">
             <img className="w-3/4 md:w-1/2 lg:w-2/5" src={profile_pic} alt="Shiv Bhagat" />
         </div>
+
         <a href="/about" class="absolute block mx-auto text-xl md:mt-96 bottom-0 left-1/2 -ml-10 mt-80">
             <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path fill-rule="evenodd" clip-rule="evenodd"
