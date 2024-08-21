@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../assets/resume/Shiv Bhagat's Resume.pdf"
+import resume from "../assets/resume/Shiv_Bhagat's_Resume.pdf"
 
 function About() {
   return (
@@ -69,8 +69,7 @@ function About() {
                 Download Resume
             </h1>
             <a 
-                href={resume} 
-                download="Shiv Bhagat's Resume.pdf" 
+                href={resume} download={"Shiv Bhagat's Resume V2"}
                 className="bg-gradient hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:scale-105 mt-4"
             >
                 Download Resume
