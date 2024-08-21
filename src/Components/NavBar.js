@@ -34,7 +34,7 @@ function Nav() {
         </div>
       </div>
       <nav className={` ${!isOpen ? "hidden" : null} text-center md:flex justify-between`}>
-        <ul className="bg-clip-text bg-gradient2 text-transparent font-medium md:flex items-center md:space-x-5 md:mr-10">
+        <ul className="bg-clip-text text-white text-transparent font-medium md:flex items-center md:space-x-5 md:mr-10">
           <li className="pb-1 md:pb-0">
             <NavLink to="/" onClick={toggleClass}>
               Home
