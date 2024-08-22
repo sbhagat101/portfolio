@@ -10,6 +10,7 @@ import git from "../assets/techstack/git.png";
 import npm from "../assets/techstack/npm.png";
 import mysql from "../assets/techstack/mysql.png";
 import firebase from "../assets/techstack/firebase.png";
+import jira from "../assets/techstack/jira.png";
 
 function Technologies() {
   return (
@@ -41,6 +42,7 @@ function Technologies() {
         <img src={git} title="Git" alt="Git" />
         <img src={github} title="Github" alt="Github" />
         <img src={npm} title="NPM" alt="NPM" />
+        <img src={jira} title="JIRA" alt="JIRA" />
       </section>
     </main>
   );
