@@ -6,6 +6,15 @@ module.exports = {
       fontFamily: {
         primary: "Poppins, sans-serif",
       },
+      keyframes: {
+        bounce: {
+          '0%, 100%': { transform: 'translateY(0)' },
+          '50%': { transform: 'translateY(-20px)' },
+        },
+      },
+      animation: {
+        'bounce-arrow': 'bounce 1s infinite',
+      },
       colors: {
         "light-content": "#A7A7A7",
         "dark-heading": "#1f2428",
