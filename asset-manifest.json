@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.633bae04.css",
-    "main.js": "/portfolio/static/js/main.6d8f3ee7.js",
+    "main.css": "/portfolio/static/css/main.acd0dd1c.css",
+    "main.js": "/portfolio/static/js/main.0f44e477.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/profile_pic.png": "/portfolio/static/media/profile_pic.3b7b27cc65117f2ce102.png",
+    "static/media/mandirs.jpg": "/portfolio/static/media/mandirs.44e25f8e0d4edb6dac09.jpg",
     "static/media/Shiv_Bhagat's_Resume.pdf": "/portfolio/static/media/Shiv_Bhagat's_Resume.03c0a661e9227043dc07.pdf",
+    "static/media/TitanTalks.jpg": "/portfolio/static/media/TitanTalks.35c53e60f650c6282ac0.jpg",
+    "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.803eac7e3a33977707f9.jpg",
     "static/media/nav_logo.png": "/portfolio/static/media/nav_logo.0880269be82715df2e17.png",
     "index.html": "/portfolio/index.html",
-    "main.633bae04.css.map": "/portfolio/static/css/main.633bae04.css.map",
-    "main.6d8f3ee7.js.map": "/portfolio/static/js/main.6d8f3ee7.js.map",
+    "main.acd0dd1c.css.map": "/portfolio/static/css/main.acd0dd1c.css.map",
+    "main.0f44e477.js.map": "/portfolio/static/js/main.0f44e477.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.633bae04.css",
-    "static/js/main.6d8f3ee7.js"
+    "static/css/main.acd0dd1c.css",
+    "static/js/main.0f44e477.js"
   ]
 }
