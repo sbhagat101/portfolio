@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.acd0dd1c.css",
-    "main.js": "/portfolio/static/js/main.0f44e477.js",
+    "main.css": "/portfolio/static/css/main.d838b869.css",
+    "main.js": "/portfolio/static/js/main.00387853.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/profile_pic.png": "/portfolio/static/media/profile_pic.3b7b27cc65117f2ce102.png",
     "static/media/mandirs.jpg": "/portfolio/static/media/mandirs.44e25f8e0d4edb6dac09.jpg",
@@ -10,12 +10,12 @@
     "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.803eac7e3a33977707f9.jpg",
     "static/media/nav_logo.png": "/portfolio/static/media/nav_logo.0880269be82715df2e17.png",
     "index.html": "/portfolio/index.html",
-    "main.acd0dd1c.css.map": "/portfolio/static/css/main.acd0dd1c.css.map",
-    "main.0f44e477.js.map": "/portfolio/static/js/main.0f44e477.js.map",
+    "main.d838b869.css.map": "/portfolio/static/css/main.d838b869.css.map",
+    "main.00387853.js.map": "/portfolio/static/js/main.00387853.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acd0dd1c.css",
-    "static/js/main.0f44e477.js"
+    "static/css/main.d838b869.css",
+    "static/js/main.00387853.js"
   ]
 }
