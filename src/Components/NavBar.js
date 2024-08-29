@@ -55,11 +55,6 @@ function Nav() {
               Projects
             </NavLink>
           </li>
-          <li>
-            <NavLink to="/contact" onClick={toggleClass}>
-              Contact
-            </NavLink>
-          </li>
         </ul>
         <ul className="flex justify-evenly items-center my-5 md:my-0 md:space-x-5 md:mr-5">
           <li>
