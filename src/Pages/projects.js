@@ -10,7 +10,7 @@ function Projects() {
         {
           title: "Portfolio",
           image: portfolio,
-          description: `An portfolio site to showcase my experience and projects`,
+          description: "A portfolio site to showcase my experience and projects",
           techstack: "React JS, HTML, Tailwind CSS",
           previewLink: "https://sbhagat101.github.io/portfolio",
           githubLink: "https://github.com/sbhagat101/portfolio",
@@ -18,7 +18,7 @@ function Projects() {
         {
             title: "Mandirs",
             image: mandirs,
-            description: `This is an ios app which showcases BAPS Temples across North America`,
+            description: "This is an iOS app which showcases BAPS Temples across North America",
             techstack: "Swift",
             previewLink: "https://github.com/sbhagat101/Mandirs?tab=readme-ov-file#simulation",
             githubLink: "https://github.com/sbhagat101/Mandirs",
@@ -26,17 +26,16 @@ function Projects() {
         {
           title: "Weather Dashboard",
           image: weather,
-          description: `An Weather Dashboard to view weather in any given city and also view the next 5 day forecast`,
-          techstack: "React JS, HTML, CSS, Axios",
+          description: "An Weather Dashboard to view weather in any given city and also view the next 5 day forecast",
+          techstack: "React JS, HTML, CSS",
           previewLink: "https://sbhagat101.github.io/WeatherDashboard/",
           githubLink: "https://github.com/sbhagat101/WeatherDashboard",
         },
         {
           title: "Titan Talks",
           image: titanTalks,
-          description: `An Full-stack web application designed to faciliate networking among CSUF students`,
+          description: "An Full-stack web application designed to faciliate networking among CSUF students",
           techstack: "React JS, HTML, Tailwind CSS",
-          previewLink: "https://github.com/sbhagat101/titan-talks-2.0",
           githubLink: "https://github.com/sbhagat101/titan-talks-2.0",
         }
       ];

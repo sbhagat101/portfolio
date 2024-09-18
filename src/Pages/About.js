@@ -10,10 +10,9 @@ function About() {
             About Me
             </h1>
             <p className="text-white bg-clip-text bg-gradient2 text-transparent py-8 lg:max-w-3xl">
-            Hello! My name is Shiv a software engineer early in his career.   
-            My programming journey started back in high school when i took an computer science class where I learned Python.
-            Fast-Forward to today, and I've had the privilege of working for one biggest defense Contractor in Raytheon. 
-            Actively seeking new opportunities in Southern California.
+            Hi, I'm Shiv, a driven software engineer ready to tackle new challenges in Southern California. 
+            My passion for programming ignited in high school, and I've since honed my skills through hands-on experience, including a rewarding role at Raytheon.
+            I'm eager to contribute my expertise and continue growing in this dynamic field.
             </p>
         </section>
 
