@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.45d8893b.css",
-    "main.js": "/portfolio/static/js/main.18d25ba9.js",
+    "main.js": "/portfolio/static/js/main.eab8708b.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/profile_pic.png": "/portfolio/static/media/profile_pic.82bba40a0149213e8c31.png",
     "static/media/mandirs.jpg": "/portfolio/static/media/mandirs.44e25f8e0d4edb6dac09.jpg",
@@ -12,11 +12,11 @@
     "static/media/nav_logo.png": "/portfolio/static/media/nav_logo.0880269be82715df2e17.png",
     "index.html": "/portfolio/index.html",
     "main.45d8893b.css.map": "/portfolio/static/css/main.45d8893b.css.map",
-    "main.18d25ba9.js.map": "/portfolio/static/js/main.18d25ba9.js.map",
+    "main.eab8708b.js.map": "/portfolio/static/js/main.eab8708b.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45d8893b.css",
-    "static/js/main.18d25ba9.js"
+    "static/js/main.eab8708b.js"
   ]
 }
