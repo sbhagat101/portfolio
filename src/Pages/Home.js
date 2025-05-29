@@ -19,6 +19,7 @@ function Home() {
                 strings: [
                     'Full Stack Developer',
                     'Programmer',
+                    'Backend Developer',
                     'Software Engineer',
                     'Car Enthusiast',
                     'Sport Enthusiast',

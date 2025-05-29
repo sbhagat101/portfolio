@@ -24,7 +24,7 @@ function About() {
             <div class="mb-8 ml-4">
                 <div class="absolute w-3 h-3 bg-gradient rounded-full mt-1.5 -left-1.5 border border-white"></div>
                 <time class="text-sm font-semibold leading-none text-white">March 2023 - July 2024</time>
-                <h3 class="text-lg font-semibold text-white">Software Engineer</h3>
+                <h3 class="text-lg font-semibold text-white">Software Engineer I</h3>
                 <p class="text-base font-normal text-white">Raytheon</p>
                 <p class="text-base font-normal text-white">El Segundo, CA</p>
                 <div className="btn bg-gradient text-white font-bold text-xs inline-block rounded-3xl px-3 py-1 min-w-fit">Full-Time</div>
@@ -68,7 +68,7 @@ function About() {
                 Download Resume
             </h1>
             <a 
-                href={resume} download={"Shiv Bhagat's Resume V2"}
+                href={resume} download={"Shiv Bhagat's Resume"}
                 className="bg-gradient hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:scale-105 mt-4"
             >
                 Download Resume
