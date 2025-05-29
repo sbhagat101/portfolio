@@ -17,10 +17,8 @@ function Home() {
                 <Typewriter
                 options={{
                 strings: [
-                    'Full Stack Developer',
-                    'Programmer',
-                    'Backend Developer',
                     'Software Engineer',
+                    'Backend Developer',
                     'Car Enthusiast',
                     'Sport Enthusiast',
                 ],
